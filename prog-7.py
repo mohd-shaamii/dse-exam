@@ -12,10 +12,6 @@ print("Original DataFrame")
 print(df)
 
 name_age=df[['Name','Age']]
-print("Original DataFrame")
-print(df)
-
-name_age=df[['Name','Age']]
 print("Name and Age columns")
 print(name_age)
 
